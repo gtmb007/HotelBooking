@@ -38,7 +38,7 @@ spring.datasource.password=oracle
 Default server port used by tomcat is 8080 <br/>
 You can manually set the server port in the application.properties file- server.port=8090
 
-# Using Potman to validate REST API URL
+# Using Postman to validate REST API URL
 
 ###### Note:- REST API part is on process
 Admin Login:- GET Request http://localhost:8090/admin/{id}/{password} <br/>
