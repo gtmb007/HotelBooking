@@ -56,7 +56,7 @@ Add Booking to User:- PUT Request http://localhost:8090/user/{id} <br/>
 Search Hotel by Name Search Key:- GET request http://localhost:8090/hotel/name/{key} <br/>
 Search Hotel by Location Search Key:- GET request http://localhost:8090/hotel/location/{key} <br/>
 Book Hotel (amount debited from User Wallet):- POST Request http://localhost:8090/booking <br/>
-Get Booking:- GET Request http://localhost:8090/booking/{id}
+Get Booking:- GET Request http://localhost:8090/booking/{id} <br/>
 Update Booking (amount debited/credited from User Wallet):- PUT Request http://localhost:8090/booking/{id} <br/>
 Cancel Booking (amount credited to User Wallet):- DELETE Request http://localhost:8090/booking/{id} <br/>
 
