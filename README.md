@@ -1,12 +1,12 @@
 # HotelBooking
 HotelBooking is a RESTful Web Service built using SpringBoot with the following functionalities:- 
-######Admin Login
+###### Admin Login
 1.) Add Vendor <br/>
 2.) Get Vendor <br/>
 3.) Add Hotel <br/>
 4.) Get Hotel <br/>
-######User SignUp <br/>
-######User SignIn <br/>
+###### User SignUp <br/>
+###### User SignIn <br/>
 1.) User Details with All Bookings <br/>
 2.) Update User Name <br/>
 3.) Update User Password <br/>
